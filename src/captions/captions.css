@@ -1,0 +1,11 @@
+div#wrapper {
+    max-width: 650px;
+    margin: auto;
+    font-family: Arial;
+    font-size: 2em;
+    line-height: 2em;
+}
+
+s {
+	text-decoration: none;
+}
